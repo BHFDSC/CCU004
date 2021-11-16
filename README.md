@@ -1,4 +1,4 @@
-# COVID and Cardiovascular Disease Risk Prediction
+# COVID and cardiovascular disease risk prediction
 
 ## Project description
 
@@ -10,6 +10,15 @@ Currently, doctors use risk prediction calculators to help decide whether a pati
 
 We plan to develop new risk prediction tools to assess and help communicate a patients’ future risk of CVD. Our aims are (i) to better identify patients at high risk of CVD in the UK and (ii) to improve communication of CVD risk to patients across the whole of society. Ultimately, this should reduce CVD in the UK.
 
+## Sub-projects
+
+The issues outlined above will be addressed in outputs from a number of related sub-projects.  Follow the links below to view repositories containing the protocol, data curation and analysis code, and phenotyping algorithms and codelists for each sub-project:
+
+* [CCU004_01: Title TBC](https://github.com/BHFDSC/CCU004_01)
+* [CCU004_02: Prediction of stroke and COVID-19 death using deep learning and sequential medical histories in a nationwide atrial fibrillation cohort](https://github.com/BHFDSC/CCU004_02)
+
+> Links to repositories for additional outputs will follow in due course.
+
 ## Project approval
 
-This project has been approved by the CVD-COVID-UK Approvals & Oversight Board (Project ID: CCU004).
+This project has been approved by the CVD-COVID-UK/COVID-IMPACT Approvals & Oversight Board (Project ID: CCU004).
